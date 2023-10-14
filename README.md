@@ -17,7 +17,7 @@ Skills
 • Microsoft SQL Server, MySQL, MongoDB.
 • OWASP ZAP, Fortify WebInspect, Qualys.
 • Microsoft Office, Code: Blocks, Eclipse, Intellij Idea, Visual Studio Code.
-• Postman, Swagger UI, GitLab.
+• Postman, Swagger UI, Git, GitHub, GitLab.
 • JMeter, Bugzilla, BrowserStack, GitLab, Firebase, Charles Proxy.
 • Cypress.io, Katalon Studio, Testim.io, ALM.
 
